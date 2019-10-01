@@ -13,7 +13,7 @@ git clone https://github.com/seniorglez/UnityGame
 If you prefer using ssh instead of http type
 
 ```
-git@github.com:seniorglez/UnityGame.git
+git clone git@github.com:seniorglez/UnityGame.git
 ```
 
 Now you only have to open your local repository with the Unity Editor v.2019.1.9f1
